@@ -1,6 +1,7 @@
 {
   "name": "angular2-seed",
   "version": "0.0.0",
+  "main": "src/index.html",
   "description": "",
   "scripts": {
     "postinstall": "gulp typings:install"
