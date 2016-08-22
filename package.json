@@ -11,21 +11,21 @@
   "devDependencies": {
     "angular2-template-loader": "^0.4.0",
     "awesome-typescript-loader": "^1.1.1",
-    "css-loader": "^0.23.1",
-    "raw-loader": "^0.5.1",
-    "to-string-loader": "^1.1.4",
-    "typescript": "~1.8.9",
-    "typings": "~1.0.3",
-    "webpack": "^1.12.9",
-    "webpack-dev-server": "^1.14.0",
     "browser-sync": "^2.14.0",
     "browser-sync-webpack-plugin": "^1.1.2",
+    "css-loader": "^0.23.1",
     "gulp": "^3.9.1",
     "gulp-param": "^1.0.3",
+    "gulp-typedoc": "^2.0.0",
     "open": "0.0.5",
+    "raw-loader": "^0.5.1",
     "shelljs": "^0.7.0",
+    "to-string-loader": "^1.1.4",
+    "typedoc": "^0.4.5",
     "typescript": "^1.8.10",
-    "typings": "^1.3.1"
+    "typings": "^1.3.1",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
     "@angular/common": "2.0.0-rc.5",
@@ -46,10 +46,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dsilva2401/angular2-seed.git"
+    "url": "git+https://github.com/dsilva2401/nw-ang2-seed.git"
   },
   "bugs": {
-    "url": "https://github.com/dsilva2401/angular2-seed/issues"
+    "url": "https://github.com/dsilva2401/nw-ang2-seed/issues"
   },
-  "homepage": "https://github.com/dsilva2401/angular2-seed#readme"
+  "homepage": "https://github.com/dsilva2401/nw-ang2-seed#readme"
 }
